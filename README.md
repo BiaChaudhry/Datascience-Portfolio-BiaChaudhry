@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+# Data Science & Data Analytics Projects
 
-You can use the [editor on GitHub](https://github.com/BiaChaudhry/Datascience-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Project # 1: Data Explainiability Challenge 
+Technolvers launched the #Data Explainability Challenge (DEC) to emphasize the importance of Data Science and Data Analytics for tackling real-world problems like the current COVID-19 pandemic. Participants were required to rank the top five regions of Pakistan from the Most Successful to the Most Struggling on the basis of the provided COVID-19 dataset.
+Our team consisting of three members (Farhana Shafi, Rahat Ul Ain, Bia Chaudhry (Team Lead)), performed data analysis in four major steps. First, we implemented a time-series analysis to examine the region-wise trends of several factors. Then, we compared all the regions considering parameter ratios. Third, we drew insights from previous comparisons. And finally, we rated the top five regions.  #Alhumdullilah. We stood second runner-up in this all Pakistan DEC competition. Special thanks to Dr.Semaab Latif for mentoring us.
+The details of our analysis can be found here: [Source Code](https://github.com/BiaChaudhry/DEC_Competition_COVID_19_Analysis/blob/master/Farhana_Rahat_Bia_DEC260411_Data_Video_Comp.ipynb)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BiaChaudhry/Datascience-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
