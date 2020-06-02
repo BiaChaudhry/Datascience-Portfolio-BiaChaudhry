@@ -1,3 +1,5 @@
+![Header](https://cdn.pixabay.com/photo/2017/11/07/08/05/binary-2925964_960_720.jpg)
+---
 # Data Science Projects
 
 ---
