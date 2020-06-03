@@ -36,5 +36,10 @@ The Presentation of this project can be found here: [Presentation](https://githu
 
 ---
 
+## Project # 4: Survey of Final Year Students to get insights
+![Image4](https://1.bp.blogspot.com/-Z8WJZ-mQ_0g/XlOp4LIsewI/AAAAAAAAAzk/ksjLzMBsZD4EAvIGGOrgqdTKCG-C_QqTQCLcBGAsYHQ/w945-h600-p-k-no-nu/dawn-1840298_1920.jpg)
 
+This project is more of a data analytical project. But you can always initiate a data science problem to find a solution. In this project I collected data from Final Year University students (mainly from my university NUST), when I was still in my final year. The survey aims at figuring out the sentiments of graduation class regarding several aspects of their univeristy and other experiences. The details of this project can be found in my blog post at: [Survey of Final Year Students](https://seblog1312.blogspot.com/2020/02/a-survey-of-final-year-university.html)
 
+---
+Happy Data Sciencing :)
