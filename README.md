@@ -70,7 +70,7 @@ From the current analysis, we can draw several insights such as:
   5. The reduction in productivity is due to non-familiarity with distance learning and work from home.
 
 ### CONCLUSION:
-Conclusively I would say that such analysis allows us to better tackle the situation like current pandemic effectively, and enable us to use technology to move forward with maximum productivity. 
+Conclusively I would say that such analysis allows us to better tackle the situation like current pandemic effectively, and enables us to use technology to move forward with maximum productivity. 
 [FULL REPORT](https://drive.google.com/file/d/1PDK4uhh-YfA-P0YsmjMydbO4B5_ZCb-J/view?usp=drivesdk)
 
 ---
