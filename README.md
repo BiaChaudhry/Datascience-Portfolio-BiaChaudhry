@@ -62,11 +62,12 @@ The graphical representations along with the description can be found in this re
 
 ### INSIGHTS & FINDINGS:
 From the current analysis, we can draw several insights such as:
-    1. The male participants for this survey outnumbered the female participants.
-    2. Out of all the participants, the major portion is covered by students.
-    3. The reason for the above two conclusions is that the Google form reached that audience the most. 
-    4. Overall productivity decreases.
-    5. The reduction in productivity is due to non-familiarity with distance learning and work from home.
+
+  1. The male participants for this survey outnumbered the female participants.
+  2. Out of all the participants, the major portion is covered by students.
+  3. The reason for the above two conclusions is that the Google form reached that audience the most. 
+  4. Overall productivity decreases.
+  5. The reduction in productivity is due to non-familiarity with distance learning and work from home.
 
 ### CONCLUSION:
 Conclusively I would say that such analysis allows us to better tackle the situation like current pandemic effectively, and enable us to use technology to move forward with maximum productivity. 
