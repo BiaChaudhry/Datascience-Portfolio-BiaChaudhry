@@ -42,4 +42,36 @@ The Presentation of this project can be found here: [Presentation](https://githu
 This project is more of a data analytical project. But you can always initiate a data science problem to find a solution. In this project I collected data from Final Year University students (mainly from my university NUST), when I was still in my final year. The survey aims at figuring out the sentiments of graduation class regarding several aspects of their univeristy and other experiences. The details of this project can be found in my blog post at: [Survey of Final Year Students](https://seblog1312.blogspot.com/2020/02/a-survey-of-final-year-university.html)
 
 ---
+
+## Project # 5: Productivity Analysis amid Pandemic Situation
+![Image5](https://cdn.pixabay.com/photo/2016/06/03/13/57/digital-marketing-1433427_960_720.jpg)
+
+### INTRODUCTION:
+This study is meant to provide a brief overview of how the productivity of different sectors effected amid the current pandemic situation.
+
+### DATA:
+The data is collected using Google Forms. Hence it is inserted in the form of CSV file to generate visualizations.
+The CSV file contains the data in the form of structured rows and columns. Around 150 people participated in the data collection phase. This report contains a total of 5 pages only.
+
+### TOOLS & TECHNOLOGIES:
+The report and visualization charts are created using Google Data Studio.
+Google Data Studio helps to create and manage analytical reports easily and effectively.
+
+### RESULTS:
+The graphical representations along with the description can be found in this report, showing several results and data insights. 
+
+### INSIGHTS & FINDINGS:
+From the current analysis, we can draw several insights such as:
+    1. The male participants for this survey outnumbered the female participants.
+    2. Out of all the participants, the major portion is covered by students.
+    3. The reason for the above two conclusions is that the Google form reached that audience the most. 
+    4. Overall productivity decreases.
+    5. The reduction in productivity is due to non-familiarity with distance learning and work from home.
+
+### CONCLUSION:
+Conclusively I would say that such analysis allows us to better tackle the situation like current pandemic effectively, and enable us to use technology to move forward with maximum productivity. 
+[FULL REPORT](https://datastudio.google.com/open/1UrdKd5cVZdYBJ2A4cIW5gpF0GCAT__m4?usp=sharing)
+
+---
+
 Happy Data Sciencing :)
