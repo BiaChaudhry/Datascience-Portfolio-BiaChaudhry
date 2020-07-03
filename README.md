@@ -1,6 +1,7 @@
-![Header](https://cdn.pixabay.com/photo/2017/11/07/08/05/binary-2925964_960_720.jpg)
+![Header](https://cdn.pixabay.com/photo/2017/08/07/18/27/businessman-2606506_960_720.jpg)
 ---
 # Data Science Projects
+#### From data points to business insights...
 
 ---
 
