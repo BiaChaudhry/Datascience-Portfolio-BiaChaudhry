@@ -77,6 +77,7 @@ Conclusively I would say that such analysis allows us to better tackle the situa
 ---
 
 ### PROJECT # 6: An Interactive End-to-End Data Driven Web Application in Python
+![Image 6](https://miro.medium.com/max/700/1*T_ezeSYFOCSh2Cec3ce2TQ.png)
 I worked on data-driven web applications. These applications provide an interactive view of data in the form of a dashboard. I found Streamlit (Python Framework) very useful in this regard, so I built and deployed an interactive web application using Python and Streamlit. The application is able to:
 
     1. Show the dataset on the user's choice.
@@ -84,5 +85,6 @@ I worked on data-driven web applications. These applications provide an interact
     3. Show per year MRP, discount%, and sale price.
 
 You can find the complete source code and explanation in my [medium post here](https://medium.com/@biach1312/how-to-create-a-data-driven-web-application-in-python-99d3c55fdf59)
+---
 
 Happy Data Sciencing :)
